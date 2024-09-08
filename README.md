@@ -1,4 +1,5 @@
 # Nearest-Pharmacies-Locator
+### The goal is to develop an application to locate and visualize the pharmacy closest to your current location.
 ![Localisation des Pharmacies les Plus Proches_page-0001](https://github.com/user-attachments/assets/2deb4708-3631-458b-a196-b190500cd6a1)
 
 ## PLAN
